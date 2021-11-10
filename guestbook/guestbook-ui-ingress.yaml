@@ -11,4 +11,5 @@ spec:
         backend:
           service:
             name: guestbook-ui
-            port: 80
+            port:
+              number: 80
